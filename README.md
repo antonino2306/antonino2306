@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @antonino2306
-- 👀 I’m a software engineer studente at the University of Palermo
+- I’m a software engineer studente at the University of Palermo
 
 
 <!---
